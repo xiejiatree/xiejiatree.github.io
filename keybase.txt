@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kevinjycui
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kevinjycui.github.io
+  * I am kevinjycui (https://keybase.io/kevinjycui) on keybase.
+  * I have a public key ASB2JiRdx09BxX0wqMi2H21kwObprzbQLEBesnIYww8zBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207626245dc74f41c57d30a8c8b61f6d64c0e6e9af36d02c405eb27218c30f33070a",
+      "host": "keybase.io",
+      "kid": "01207626245dc74f41c57d30a8c8b61f6d64c0e6e9af36d02c405eb27218c30f33070a",
+      "uid": "d599269c23aef369831a16cb25a2c319",
+      "username": "kevinjycui"
+    },
+    "merkle_root": {
+      "ctime": 1608749165,
+      "hash": "6c91e6349da7cdb6ac1aedbca9ea5a3e658350a59d677a8f0a9bf5ca263d5d88737a80ff1d8a61e7f3fa9c4f647589b9b2680af967bf978e0cc6c1b3f1c4de3c",
+      "hash_meta": "6ac0308f4a8fc563f694d93158e6961ff6dea5897d51436dc3e3dd8e5421dea1",
+      "seqno": 18488494
+    },
+    "service": {
+      "entropy": "hhp5N/zGiBkrkoihIfU/UOi7",
+      "hostname": "kevinjycui.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.2"
+  },
+  "ctime": 1608749191,
+  "expire_in": 504576000,
+  "prev": "ce8f8f11cf988720c92ad6b3e870392d5c120e54a3d59177ffb22548b8c762f9",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdiYkXcdPQcV9MKjIth9tZMDm6a820CxAXrJyGMMPMwcKp3BheWxvYWTESpcCBsQgzo+PEc+YhyDJKtaz6HA5LVwSDlSj1ZF3/7IlSLjHYvnEII1CEKVM6xpIePLQmaErO8i3peHXwLE8nPemuFdw9z4SAgHCo3NpZ8RAH8YvlnZ0YWsEL6WyRRUU5wXbWf3pdGTtjKDPcNDiBjc66gRvxfGE2FE+8lZdYYiBCJ32dkEDA/6G3CvbVlGnBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAR6AY/cXiwLFjVAzF1x1TpE95PQmucldIgx4C5JQULvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevinjycui
+
+==================================================================
